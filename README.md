@@ -19,7 +19,7 @@ This analysis will help answer the following key business questions:
 - **Are there specific directors whose films consistently perform well internationally?**
 - **What languages are associated with popular films?**
 
-These insights will equip the new studio team with reliable data to greenlight projects that align with market demand and maximize profitability.
+These insights will equip the new studio team with reliable data to commission projects that align with the market demand and maximize profitability.
 
 ## 📊 Datasets
 
