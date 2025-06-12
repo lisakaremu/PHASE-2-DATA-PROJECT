@@ -35,7 +35,7 @@ Together, these datasets offer a comprehensive view of the global film landscape
 
 ### *1️⃣ Data Exploration*  
 - This phase focuses on understanding the dataset, identifying important columns, and investigating potential relationships that could be explored.  
-- Assessing the structure of the data, will determine which columns are crucial for our analysis, and evaluate whether the data is clean or requires attention
+- Assessing the structure of the data, will determine which columns are crucial for this analysis, and evaluate whether the data is clean or requires attention
 I will investigate the different subsets of the data to understand the distribution, data types, and to identify any obvious issues (e.g., missing values, inconsistencies).  
 - The goal is to identify any initial patterns, issues, or opportunities for further exploration and to form hypotheses that guide the next steps in the analysis.
 
@@ -63,7 +63,7 @@ This stage is divided into the following:
 - Focus on helping decision-makers prioritize **genres**, **directors**, **languages**, and **film types** based on profitability, audience reception, and global appeal.
 
 ### *5️⃣ Limitations of The Analysis*  
-- I will discuss the limitations of the analysis, such as potential biases in the dataset, missing information, and sampling constraints.  
+- I shall discuss the limitations of the analysis, such as potential biases in the dataset, missing information, and sampling constraints.  
 - Acknowledging areas where further exploration, data collection, or improved methods could enhance the results.
 
   ## 📊 Key Visualizations 
@@ -86,7 +86,7 @@ Below are the critical visualizations that helped provide my insights into the f
 ![Top 10 Directors by Worldwide Gross](images/v4.png)
 
 ## 📌 Conclusion
-This analysis shows that G-rated and family-friendly films offer the highest ROI, certain genres like Drama and Animation consistently receive strong ratings, and a few key directors drive higher foreign revenue. English remains the dominant language for popular films, but non-English content also shows potential. These insights can help guide data-driven decisions on genre focus, content rating, and director partnerships for a successful market entry.
+This analysis shows that G-rated and family-friendly films offer the highest ROI, while genres like Drama and Animation consistently receive strong ratings, and a few key directors drive higher foreign revenue. English remains the dominant language for popular films, but non-English content also shows potential. These insights can help guide data-driven decisions on genre focus, content rating, and director partnerships for a successful market entry.
 
 ## 💻 Technologies Used
 - **Python** - `Pandas`, `Matplotlib`, `Seaborn`, `NumPy`
